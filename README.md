@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Senior QA Engineer moving into Automation 🤖 </h3>
 <img align = "right" alt = "automation" width = "400" src = "https://thumbs.gfycat.com/CreamyInsistentAfricanelephant-max-1mb.gif">
 
-- 🔭 I’m currently working on [South Park Auitomation](https://github.com/RobertHardy14/South-Park)
+- 🔭 I’m currently working on [South Park Automation](https://github.com/RobertHardy14/South-Park)
 
 - 🌱 I’m currently learning **Cypress, JS and TS**
 
