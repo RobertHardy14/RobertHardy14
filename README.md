@@ -8,15 +8,13 @@
   <h2>Projects</h2>
   <h3> Note: This will be getting updated as more projects are worked on. </h3>
   <ul>
-    <li>
-      <h3>IMDB Login</h3>
-      <p>Description: This project was made in order to showcase intial knowledge on cypress, using mocha and chai,
-        written on JS</p>
+     <li>
+      <h3>South Park</h3>
+      <p>Description: This project goes a bit further into Cypress knowledge, using mocha and chai, written on JS</p>
       <p>Repository: <a
-          href="https://github.com/RobertHardy14/imdbLogin-cypress">https://github.com/RobertHardy14/imdbLogin-cypress</a>
-      </p>
+          href="https://github.com/RobertHardy14/South-Park">https://github.com/RobertHardy14/South-Park</a></p>
     </li>
-    <li>
+     <li>
       <h3>Amazon Search</h3>
       <p>Description: This project showcases a more advanced understanding of Cypress, using mocha and chai and written
         in JS</p>
@@ -25,10 +23,12 @@
       </p>
     </li>
     <li>
-      <h3>South Park</h3>
-      <p>Description: This project goes a bit further into Cypress knowledge, using mocha and chai, written on JS</p>
+      <h3>IMDB Login</h3>
+      <p>Description: This project was made in order to showcase intial knowledge on cypress, using mocha and chai,
+        written on JS</p>
       <p>Repository: <a
-          href="https://github.com/RobertHardy14/South-Park">https://github.com/RobertHardy14/South-Park</a></p>
+          href="https://github.com/RobertHardy14/imdbLogin-cypress">https://github.com/RobertHardy14/imdbLogin-cypress</a>
+      </p>
     </li>
     <!-- Add more project entries as needed -->
   </ul>
