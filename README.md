@@ -8,6 +8,21 @@
   <h2>Projects</h2>
   <h3> Note: This will be getting updated as more projects are worked on. </h3>
   <ul>
+    <li>
+      <h3>Amazon Search - Playwright</h3>
+      <p>Description: This project uses Page Objects and is more indepth than the previous ones</p>
+      <p>Repository: <a href="https://github.com/RobertHardy14/amazonSearch-playwright">https://github.com/RobertHardy14/amazonSearch-playwright</a></p>
+    </li>
+    <li>
+      <h3>IMDb Login - Playwright</h3>
+      <p>Descriptoin: This project takes on some more advanced concepts like using environment variables. this was 100% written by me, no codegen on this one</p>
+      <p>Repository: <a href="https://github.com/RobertHardy14/imdbLogin-playwright">https://github.com/RobertHardy14/imdbLogin-playwright</a></p>
+    </li>
+    <li>
+      <h3>Playwright - Google Search</h3>
+      <p>Description: This project makes use of Codegen from Playwright and uses concepts from the udemy course Playwright: Web Automation Testing from Zero to Hero, it also uses Github Actions</p>
+      <p>Repository: <a href="https://github.com/RobertHardy14/pw-gSearch-codeGen">https://github.com/RobertHardy14/pw-gSearch-codeGen</a></p>
+    </li>
      <li>
       <h3>Karate DSL</h3>
        <p>Description: This project starts expanding into API Automation, from the udemy course <a href="https://www.udemy.com/course/karate-dsl-api-automation-and-performance-from-zero-to-hero/?couponCode=OF52424">Karate DSL: API Automation and Performance from Zero to Hero</a></p>
