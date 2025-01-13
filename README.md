@@ -15,7 +15,7 @@
     </li>
     <li>
       <h3>IMDb Login - Playwright</h3>
-      <p>Descriptoin: This project takes on some more advanced concepts like using environment variables. this was 100% written by me, no codegen on this one</p>
+      <p>Description: This project takes on some more advanced concepts like using environment variables. this was 100% written by me, no codegen on this one</p>
       <p>Repository: <a href="https://github.com/RobertHardy14/imdbLogin-playwright">https://github.com/RobertHardy14/imdbLogin-playwright</a></p>
     </li>
     <li>
