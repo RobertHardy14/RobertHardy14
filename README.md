@@ -1,62 +1,37 @@
-<body>
-  <h1>Test Automation Portfolio</h1>
-  <h2>About</h2>
-  <p>Welcome to my Test Automation Portfolio! Here you will find a showcase of my work and projects related to test
-    automation. I am passionate about creating efficient and reliable automated tests to ensure the quality of software
-    applications.</p>
+# Hi there! I'm Roberto Moreno 👋 
+### Senior QA Automation Engineer | AI Quality Specialist
 
-  <h2>Projects</h2>
-  <h3> Note: This will be getting updated as more projects are worked on. </h3>
-  <ul>
-    <li>
-      <h3>Amazon Search - Playwright</h3>
-      <p>Description: This project uses Page Objects and is more indepth than the previous ones</p>
-      <p>Repository: <a href="https://github.com/RobertHardy14/amazonSearch-playwright">https://github.com/RobertHardy14/amazonSearch-playwright</a></p>
-    </li>
-    <li>
-      <h3>IMDb Login - Playwright</h3>
-      <p>Description: This project takes on some more advanced concepts like using environment variables. this was 100% written by me, no codegen on this one</p>
-      <p>Repository: <a href="https://github.com/RobertHardy14/imdbLogin-playwright">https://github.com/RobertHardy14/imdbLogin-playwright</a></p>
-    </li>
-    <li>
-      <h3>Playwright - Google Search</h3>
-      <p>Description: This project makes use of Codegen from Playwright and uses concepts from the udemy course Playwright: Web Automation Testing from Zero to Hero, it also uses Github Actions</p>
-      <p>Repository: <a href="https://github.com/RobertHardy14/pw-gSearch-codeGen">https://github.com/RobertHardy14/pw-gSearch-codeGen</a></p>
-    </li>
-     <li>
-      <h3>Karate DSL</h3>
-       <p>Description: This project starts expanding into API Automation, from the udemy course <a href="https://www.udemy.com/course/karate-dsl-api-automation-and-performance-from-zero-to-hero/?couponCode=OF52424">Karate DSL: API Automation and Performance from Zero to Hero</a></p>
-       <p>Repository: <a href="https://github.com/RobertHardy14/udemyKarateTest">https://github.com/RobertHardy14/udemyKarateTest</a> </p>
-     </li>
-    <li>
-      <h3>South Park</h3>
-      <p>Description: This project goes a bit further into Cypress knowledge, using mocha and chai, written on JS</p>
-      <p>Repository: <a
-          href="https://github.com/RobertHardy14/South-Park">https://github.com/RobertHardy14/South-Park</a></p>
-    </li>
-     <li>
-      <h3>Amazon Search</h3>
-      <p>Description: This project showcases a more advanced understanding of Cypress, using mocha and chai and written
-        in JS</p>
-      <p>Repository: <a
-          href="https://github.com/RobertHardy14/AmazonSearch-Cypress">https://github.com/RobertHardy14/AmazonSearch-Cypress</a>
-      </p>
-    </li>
-    <li>
-      <h3>IMDB Login</h3>
-      <p>Description: This project was made in order to showcase intial knowledge on cypress, using mocha and chai,
-        written on JS</p>
-      <p>Repository: <a
-          href="https://github.com/RobertHardy14/imdbLogin-cypress">https://github.com/RobertHardy14/imdbLogin-cypress</a>
-      </p>
-    </li>
-    <!-- Add more project entries as needed -->
-  </ul>
+I am a Senior Quality Engineer focused on bridging the gap between traditional test automation and the new era of Generative AI. With 8+ years of experience in the software industry, I specialize in building resilient, AI-powered testing frameworks and ensuring the reliability of LLM-based applications.
 
-  <h2>Connect with Me</h2>
-  <ul>
-    <li>
-      <a href="https://www.linkedin.com/in/robert-moreno/">LinkedIn</a>
-    </li>
-    <!-- Add more social media profiles as needed -->
-  </ul>
+---
+
+### 🤖 AI Quality & Innovation Focus
+* **Self-Healing Frameworks:** Integrating Playwright with LLMs (GPT-4/Claude) to create tests that adapt to UI changes.
+* **LLM Validation:** Specialized in testing for **Hallucinations**, **Prompt Injection**, and **Output Reliability** in Gen-AI features.
+* **Workflow Optimization:** Designing AI agents to automate test case generation and defect analysis.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Automation:** ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white) ![Karate](https://img.shields.io/badge/Karate_DSL-D45131?style=flat-square)
+- **Testing Tools:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+- **AI Models:** ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--5-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_3.5-D97757?style=flat-square)
+- **CMS & Platforms:** Contentful, Kontent.AI, Git, Scrum.
+
+---
+
+### 📊 GitHub Stats
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertHardy14&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertHardy14&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with me
+- **LinkedIn:** [linkedin.com/in/robert-moreno](https://linkedin.com/in/robert-moreno)
+- **Email:** [rob.moreno@hotmail.com](mailto:rob.moreno@hotmail.com)
+- **Portfolio:** Check my pinned repositories below for AI-driven automation examples!
+
+---
+*"Quality is not an act, it is a habit... especially when the code writes itself."*
