@@ -20,14 +20,6 @@ I am a Senior Quality Engineer focused on bridging the gap between traditional t
 - **AI Models:** ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--5-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Claude_3.5-D97757?style=flat-square)
 - **CMS & Platforms:** Contentful, Kontent.AI, Git, Scrum.
 
----
-
-### 📊 GitHub Stats
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertHardy14&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertHardy14&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/robert-moreno](https://linkedin.com/in/robert-moreno)
 - **Email:** [rob.moreno@hotmail.com](mailto:rob.moreno@hotmail.com)
