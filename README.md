@@ -13,6 +13,7 @@ I am a Senior Quality Engineer focused on bridging the gap between traditional t
 ---
 
 ### 🚀 Featured Projects
+- **[ai-exploratory-tester](https://github.com/RobertHardy14/ai-exploratory-tester)** — An AI agent that autonomously explores a web app via Playwright, then generates and maintains a Playwright spec suite and a bug report, powered by Claude.
 - **[amazonSearch-playwright](https://github.com/RobertHardy14/amazonSearch-playwright)** — E2E search-to-cart test suite for Amazon México using Playwright, TypeScript, and the Page Object Model.
 - **[bbva-cursor-pw](https://github.com/RobertHardy14/bbva-cursor-pw)** — Data-driven E2E automation for BBVA México's credit cards site, with reusable POM components and fixtures.
 
