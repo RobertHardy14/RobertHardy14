@@ -33,4 +33,4 @@ I am a QA Lead focused on building reliable software through automation and qual
 - **Portfolio:** Check out my [Featured Projects](#-featured-projects) above for AI-driven automation examples!
 
 ---
-*"Quality is not an act, it is a habit... especially when the code writes itself."*
+I build automation that makes defects easier to reproduce and AI-enabled products safer to release. Explore my projects or connect with me on LinkedIn.
