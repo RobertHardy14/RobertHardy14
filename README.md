@@ -1,7 +1,7 @@
 # Hi there! I'm Roberto Moreno 👋 
-### Senior QA Automation Engineer | AI Quality Specialist
+### QA Lead | Playwright & TypeScript | AI/LLM Quality Engineering
 
-I am a Senior Quality Engineer focused on bridging the gap between traditional test automation and the new era of Generative AI. With 8+ years of experience in the software industry, I specialize in building resilient, AI-powered testing frameworks and ensuring the reliability of LLM-based applications.
+I am a QA Lead focused on building reliable software through automation and quality engineering. With 8+ years in QA, I specialize in Playwright/TypeScript automation, CI/CD quality practices, and evaluating AI-enabled applications.
 
 ---
 
