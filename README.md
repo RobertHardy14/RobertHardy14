@@ -5,18 +5,18 @@ I am a QA Lead focused on building reliable software through automation and qual
 
 ---
 
-### 🤖 AI Quality & Innovation Focus
-* **Self-Healing Frameworks:** Integrating Playwright with LLMs (GPT-4/Claude) to create tests that adapt to UI changes.
-* **LLM Validation:** Specialized in testing for **Hallucinations**, **Prompt Injection**, and **Output Reliability** in Gen-AI features.
-* **Workflow Optimization:** Designing AI agents to automate test case generation and defect analysis.
+### 🤖 AI Quality & Innovation
 
+- **AI-assisted test generation (Endava):** Introduced workflows to broaden edge-case coverage.
+- **Independent AI & QA projects:** LLM response evaluation, prompt validation, hallucination analysis, prompt-injection testing, and agentic-workflow testing with MCP.
+- **Self-healing test automation:** Prototyping Playwright selector recovery with LLM-assisted suggestions; the project currently replays recorded responses, and a live API-backed recovery run is still in progress ([project details](https://github.com/RobertHardy14/ai-self-healing)).
 ---
 
 ### 🚀 Featured Projects
-- **[ai-exploratory-tester](https://github.com/RobertHardy14/ai-exploratory-tester)** — An AI agent that autonomously explores a web app via Playwright, then generates and maintains a Playwright spec suite and a bug report, powered by Claude.
-- **[amazonSearch-playwright](https://github.com/RobertHardy14/amazonSearch-playwright)** — E2E search-to-cart test suite for Amazon México using Playwright, TypeScript, and the Page Object Model.
-- **[bbva-cursor-pw](https://github.com/RobertHardy14/bbva-cursor-pw)** — Data-driven E2E automation for BBVA México's credit cards site, with reusable POM components and fixtures.
 
+- **[bbva-cursor-pw](https://github.com/RobertHardy14/bbva-cursor-pw)** — Independent Playwright/TypeScript E2E framework for BBVA México credit-card journeys, with data-driven tests, reusable page objects, and fixtures. Not affiliated with BBVA.
+- **[pw-southPark](https://github.com/RobertHardy14/pw-southPark)** — Playwright/TypeScript suite with POM, fixtures, and GitHub Actions; documents an IP-based locale mismatch and keeps locale-independent checks gating CI.
+- **[ai-exploratory-tester](https://github.com/RobertHardy14/ai-exploratory-tester)** — Claude-driven Playwright prototype that explores authorized test sites and produces replayable specs and a structured bug report, with same-origin, safe-mode, and action/time limits.
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -33,4 +33,4 @@ I am a QA Lead focused on building reliable software through automation and qual
 - **Portfolio:** Check out my [Featured Projects](#-featured-projects) above for AI-driven automation examples!
 
 ---
-I build automation that makes defects easier to reproduce and AI-enabled products safer to release. Explore my projects or connect with me on LinkedIn.
+I build automation that makes defects easier to reproduce and AI-enabled products safer to release.
